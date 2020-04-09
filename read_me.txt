@@ -59,4 +59,3 @@
 *deleteRow [take row number; which we want to delete]
 *after that run Automation_delete.py
 
-###
