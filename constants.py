@@ -18,9 +18,9 @@ insertIndex = 4
 
 deleteRow = 4
 
-updateRowNumber = 2
-updateColNumber = 2
-updateValue = "section"
+updateRowNumber = 3
+updateColNumber = 3
+updateValue = "code"
 
 xpathSsTools =  '//*[@id="docs-tools-menu"]'
 xpathSsToolsScriptEditor = '//*[contains(@aria-label, "Script editor e")]'
