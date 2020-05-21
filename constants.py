@@ -18,8 +18,8 @@ insertIndex = 4
 
 deleteRow = 4
 
-updateRowNumber = 1
-updateColNumber = 1
+updateRowNumber = 2
+updateColNumber = 2
 updateValue = "section"
 
 xpathSsTools =  '//*[@id="docs-tools-menu"]'
