@@ -13,7 +13,7 @@ json = 'survey_cred.json'
 
 ssName = 'NewSurvey_template_based1'
 sName = 'Template1'
-data2Insert = ["pain1", "progress", "Since your pain began HOW HAS IT CHANGED?", "", "radio", "yes", "improved, worsened, stayed the same"]
+data2Insert = ["pain", "progress", "Since your pain began HOW HAS IT CHANGED?", "", "radio", "yes", "improved, worsened, stayed the same"]
 insertIndex = 4
 
 deleteRow = 4
